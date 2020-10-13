@@ -3,3 +3,5 @@ for in in range(10):
 	
 print("For loop is over")
 print("What about while loops")
+while True:
+	print('Sarit Made this change')
